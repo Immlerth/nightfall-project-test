@@ -300,11 +300,15 @@ public class Game {
                                 break;
                             }
                         }
-                    case "aezakmi":
+                    case "bartek":
                         player.setHealthPoints(1);
                         break;
-                    case "hesoyam":
+                    case "kamil":
                         ekiwp.setPieniadze(100);
+                        break;
+                    case "wyjdz":
+                    case "exit":
+                        System.exit(1);
                         break;
                     case "przejdz":
                         if(this.matrix[tx][ty].isCzypokojtoportal()){
