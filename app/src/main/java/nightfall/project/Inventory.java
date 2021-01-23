@@ -125,7 +125,7 @@ public class Inventory {
         }
         else System.out.println("Tarcza: brak");
         System.out.println("");
-        System.out.println("W ekwipunku posiadasz nastepujące przedmioty: ");
+        System.out.println("W ekwipunku posiadasz nastepujace przedmioty: ");
         System.out.println("---------------------------------------------------------");
         if(ile == 0) System.out.println("Brak przedmiotow.");
         while(licznik < ile){
