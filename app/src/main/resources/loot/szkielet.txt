@@ -1,1 +1,1 @@
-1;6;Duza drewniana pałka;palka;1;x;Jest to duza drewniana palka, ktora mozna komus zrobic krzywde.;x;x;x;x;tak;x;tak;x;x;4;0;0;1;0;0;10;2;
+1;6;Duza drewniana palka;palka;1;x;Jest to duza drewniana palka, ktora mozna komus zrobic krzywde.;x;x;x;x;tak;x;tak;x;x;4;0;0;1;0;0;10;2;
