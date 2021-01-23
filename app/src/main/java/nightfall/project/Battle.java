@@ -408,10 +408,10 @@ public class Battle {
         while(this.loot[i] != null)
         {
             invent.dodajprzedmiot(this.loot[i]);
-            invent.setPieniadze(invent.getPieniadze() + enemy[0].getIlegolda());
-            System.out.println("Podniosles "+ enemy[0].getIlegolda() + " sztuk zlota");
             i++;
         }
+        invent.setPieniadze(invent.getPieniadze() + enemy[0].getIlegolda());
+        System.out.println("Podniosles "+ enemy[0].getIlegolda() + " sztuk zlota z przeciwnika");
     }
     public void atakgracza(Player player, Inventory invent, int dys, int zas)
     {
