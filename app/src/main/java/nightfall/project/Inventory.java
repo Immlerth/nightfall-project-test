@@ -46,7 +46,7 @@ public class Inventory {
             return 1;
         }
         else{
-            return slotnalewejrecezajety[0].getMinimumobrazen();
+            return slotnaprawejrecezajety[0].getMinimumobrazen();
 
         }
     }
