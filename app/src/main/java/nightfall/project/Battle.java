@@ -197,7 +197,7 @@ public class Battle {
     {
         tura++;
         int odleglosc = px-gx;
-        System.out.println("Znajdujesz się w odleglosci " + odleglosc + " metrow od przeciwnika," );
+        System.out.println("Znajdujesz sie w odleglosci " + odleglosc + " metrow od przeciwnika," );
         System.out.println("Masz " + player.getHealthPoints() + " HP.");
 
     }
@@ -207,7 +207,7 @@ public class Battle {
         {
             System.out.println("Jest twoja kolej.");
             System.out.println("[1] Ruch");
-            System.out.println("[2] Atak wręcz");
+            System.out.println("[2] Atak wrecz");
             if (player.getObrazeniadystans() > 0) System.out.println("[3] Atak dystansowy");
             System.out.println("Co chcesz zrobic?");
 

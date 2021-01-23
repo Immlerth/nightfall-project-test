@@ -190,7 +190,7 @@ public class Sellers {
                 wyswietlprzedmioty();
                 boolean kupno = true;
                 while(kupno){
-                System.out.println("Który przedmiot chcesz kupic? (podaj numer przedmiotu, wpisz 0 aby wyjsc)");
+                System.out.println("Ktory przedmiot chcesz kupic? (podaj numer przedmiotu, wpisz 0 aby wyjsc)");
                 Scanner scanner6 = new Scanner(System.in);
                 String x6;
                 x6 = scanner.nextLine();
