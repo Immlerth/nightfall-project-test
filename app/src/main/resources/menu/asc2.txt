@@ -1,5 +1,4 @@
-
 Wybierz opcje:
-[1] - Rozpocznij grę
+[1] - Rozpocznij gre
 [2] - Autorzy
-[3] - Zakończ program
+[3] - Zakoncz program
