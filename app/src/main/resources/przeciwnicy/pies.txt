@@ -1,1 +1,1 @@
-pies;Pies;"No twojej drodze staje zajadliwy pies rasy jamnik. Krzyczysz w nieboglosy "O nie to legendarna bestia Fenrir!";4;1;1;3;3;6;4;0;0;0;0;0;1;0;0;80;0;
+pies;Pies;No twojej drodze staje zajadliwy pies rasy jamnik. Krzyczysz w nieboglosy "O nie to legendarna bestia Fenrir!";4;1;1;3;3;6;4;0;0;0;0;0;1;0;0;80;0;
