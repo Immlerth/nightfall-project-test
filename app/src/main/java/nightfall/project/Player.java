@@ -266,7 +266,7 @@ public class Player {
         System.out.println("Podstawowe obrazenia na dystans " + obrazeniadystans);
         boolean decyzja = true;
         while(decyzja){
-        System.out.println("Czy chcesz rozpocząc gre?");
+        System.out.println("Czy chcesz rozpoczac gre?");
         System.out.println("[1] tak, pora rozpoczac gre");
         System.out.println("[2] nie, chce stworzyc postac jeszcze raz");
         Scanner scanner = new Scanner(System.in);
