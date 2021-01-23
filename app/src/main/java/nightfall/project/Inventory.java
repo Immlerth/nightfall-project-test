@@ -142,7 +142,7 @@ public class Inventory {
                 }
                 else System.out.println("Rodzaj: Bron dystansowa, Wartosc obrazen dystansowych: od " + items.get(licznik).getMinimumobrazen() +" do " + + items.get(licznik).getObrazenadystans() + ", Zasieg ataku dystansowego: " + items.get(licznik).getZasiegdystans()  + ", Szansa trafienia: +" + items.get(licznik).getSzansatrafienia());
             }
-            if(items.get(licznik).isCzydolewadlon()) System.out.println("Rodzaj: tarcza, Wartosc bonusowego pancerza: " + items.get(licznik).getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +items.get(licznik).getHpzpancerzy());
+            if(items.get(licznik).isCzydolewadlon()) System.out.println("Rodzaj: Tarcza, Wartosc bonusowego pancerza: " + items.get(licznik).getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +items.get(licznik).getHpzpancerzy());
             licznik++;
         }
         System.out.println("");
