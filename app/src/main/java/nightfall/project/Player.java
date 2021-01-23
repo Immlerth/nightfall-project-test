@@ -56,8 +56,8 @@ public class Player {
         return position;
     }
 
-    public void idzpolnoc() {this.position.y = this.position.y - 1; }
-    public void idzpoludnie() { this.position.y = this.position.y + 1; }
+    public void idzpolnoc() {this.position.y = this.position.y + 1; }
+    public void idzpoludnie() { this.position.y = this.position.y - 1; }
     public void idzwschod() {
         this.position.x = this.position.x + 1;
     }

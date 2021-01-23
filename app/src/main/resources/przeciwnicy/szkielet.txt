@@ -1,1 +1,2 @@
 szkielet;Szkielet;"Idac slyszysz brzdek kosci uderzanych o siebie. Nagle za rogu wybiega na ciebie istota o zarzacych sie czerwienia slepiach, o ludzkiej aparycji zbudowana z samych kosci.";3;1;1;2;2;7;3;0;1;1;0;0;1;0;2;70;0;
+3;1;1;2;2;7;3;0;1;1;0;0;1;0;2;70;0;
