@@ -1,1 +1,1 @@
-4;Widzisz otwary budynk kowala. Nad duzymi, drewnianymi drzwiami wisi logo "Pod Zlamanym Kowadlem". ;polnoc;brak;brak;brak;x;x;tak;x;0;0;x;0
+5151;Filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

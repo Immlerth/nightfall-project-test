@@ -1,0 +1,1 @@
+zombie2;Zombie;"Dostrzegasz przed toba czlowieka? ma rozbita czaszke z ktorej wystaje pulsujacy mozg. Nie Wydaje ci sie zeby byl przyjazny, szybko szykujesz sie do walki.";2;2;0;2;1;8;3;0;0;1;0;0	1;0;2;65;0;

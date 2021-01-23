@@ -1,0 +1,1 @@
+4950;Dochodzisz do wykutego w kamieniu pomnika Helli. U jej stop widzisz ofiary. Mozesz podniesc kabanosa i jedna miksturke. Albo mozesz zostawic i isc dalej.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

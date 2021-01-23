@@ -1,0 +1,1 @@
+4850;Idac w mroku natrafiasz na szkielet opierajacy sie o mur cmentarza. ;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;1;44;Amulet z klejnotem;amulet;10; Na szyii ma zawieszony drogocenny amulet.;Przeklety amulet martwej kobiety;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;

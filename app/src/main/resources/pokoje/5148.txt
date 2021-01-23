@@ -1,0 +1,1 @@
+5148;Przedzierajasz sie przez cmentarz, widzisz sporo grobow.;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;1;14;Wygiety klucz;klucz;20; Na jednym z nagrobkow dostrzegasz stary wygiety klucz. ;Wygięty klucz do skrzyni. ;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;
