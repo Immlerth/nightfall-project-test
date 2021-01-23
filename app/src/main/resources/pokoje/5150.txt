@@ -1,1 +1,1 @@
-2;Las jest gestszy, niz ci sie wydaje. Widzisz przejscie na polnoc. ;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;p;1;42;Miecz Legendarnego Ataku;miecz;25;Pod twoimi nogami leży miecz. Jest ozdobiony runami i świeci delikatnym światłem. ;Jest to ozdobiony runami miecz ktory swieci delikatnym swiatlem. ;x;x;x;x;tak;x;tak;x;x;6;0;0;4;0;0;0;0;
+5150;Walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;szkielet;0;
