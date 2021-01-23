@@ -106,12 +106,11 @@ public class Battle {
                 this.enemy[0].setPancerztulw(Integer.parseInt(potworek[12]));
                 this.enemy[0].setPancerzrece(Integer.parseInt(potworek[13]));
                 this.enemy[0].setPancerznogi(Integer.parseInt(potworek[14]));
-                this.enemy[0].setPancerzsuma(Integer.parseInt(potworek[15]));
-                this.enemy[0].setStalydystanswrecz(Integer.parseInt(potworek[16]));
-                this.enemy[0].setStalydystansdaleko(Integer.parseInt(potworek[17]));
-                this.enemy[0].setIlegolda(Integer.parseInt(potworek[18]));
-                this.enemy[0].setSzansanawrecz(Integer.parseInt(potworek[19]));
-                this.enemy[0].setSzansanadystans(Integer.parseInt(potworek[20]));
+                this.enemy[0].setStalydystanswrecz(Integer.parseInt(potworek[15]));
+                this.enemy[0].setStalydystansdaleko(Integer.parseInt(potworek[16]));
+                this.enemy[0].setIlegolda(Integer.parseInt(potworek[17]));
+                this.enemy[0].setSzansanawrecz(Integer.parseInt(potworek[18]));
+                this.enemy[0].setSzansanadystans(Integer.parseInt(potworek[19]));
             }
         }
         catch (FileNotFoundException e) {
