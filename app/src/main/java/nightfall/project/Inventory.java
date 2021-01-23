@@ -359,23 +359,24 @@ public class Inventory {
                     i++;
                 }
 
-                i = 0;
-                while(i < przedmiotyleczacezafull.size())
-                {
-                    if(przedmiotyleczacezafull.get(i) == items.get(ile).getIdprzedmiotu()){
-                        if(player.getMaxhp() == player.getHealthPoints()) {
-                            System.out.println("Nie mozesz wypic " + items.get(ile).getNazwawek() + " bo masz maksymalne punkty zycia");
-                            czyuzyto = true;
+
+                if(czyuzyto==false){
+                    i = 0;
+                    while (i < przedmiotyleczacezafull.size()) {
+                        if (przedmiotyleczacezafull.get(i) == items.get(ile).getIdprzedmiotu()) {
+                            if (player.getMaxhp() == player.getHealthPoints()) {
+                                System.out.println("Nie mozesz wypic " + items.get(ile).getNazwawek() + " bo masz maksymalne punkty zycia");
+                                czyuzyto = true;
+                            } else {
+                                player.setHealthPoints(player.getMaxhp());
+                                System.out.println("Wypiles miksturke. Wyleczyles sie calkowicie");
+                                items.remove(ile);
+                                czyuzyto = true;
+                                break;
+                            }
                         }
-                        else{
-                            player.setHealthPoints(player.getMaxhp());
-                            System.out.println("Wypiles miksturke. Wyleczyles sie calkowicie");
-                            items.remove(ile);
-                            czyuzyto = true;
-                            break;
-                        }
+                        i++;
                     }
-                    i++;
                 }
 
             }
