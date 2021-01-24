@@ -1,0 +1,1 @@
+kowal;Bronn;Gdy do niego podchodzisz przerywa "Witaj w moim przybytku, nieznajomy! Czy moge sluzyc?";x;x;x;1.4;0;
