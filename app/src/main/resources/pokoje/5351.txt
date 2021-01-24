@@ -1,1 +1,1 @@
-5251;Wchodzisz do kuzni, na scianach widzisz porozwieszane rozmaite obcegi, mlotki i inne narzedzia platnerskie. ;polnoc;brak;wschod;brak;x;x;tak;x;0;0;x;0;
+5351;Wchodzisz do kuzni, na scianach widzisz porozwieszane rozmaite obcegi, mlotki i inne narzedzia platnerskie. ;brak;brak;wschod;brak;x;x;tak;x;0;0;x;0;
