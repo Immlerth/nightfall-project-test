@@ -1,1 +1,1 @@
-5451;Podchodzisz i widzisz szyld "Rzeznia Olafa - twoje podniebienie bedzie domagalo się mieska." Wchodzisz do masarnii. ;brak;brak;brak;zachod;x;tak;x;x;0;0;x;0;
+5451;Podchodzisz i widzisz szyld "Rzeznia Olafa - twoje podniebienie bedzie domagalo sie mieska." Wchodzisz do masarnii. ;polnoc;brak;brak;zachod;x;tak;x;x;0;0;x;0;
