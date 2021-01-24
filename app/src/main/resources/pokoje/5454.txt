@@ -1,1 +1,1 @@
-5354;Widzisz dom, który wydaje ci sie znajomy. Postawiasz nie straszyc dalej kobiety i odejsc. ;brak;poludnie;brak;brak;x;x;x;x;0;0;x;0;
+5454;Widzisz dom, ktory wydaje ci sie znajomy. Postawiasz nie straszyc dalej kobiety i odejsc. ;brak;poludnie;brak;brak;x;x;x;x;0;0;x;0;
