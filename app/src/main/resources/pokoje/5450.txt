@@ -1,1 +1,1 @@
-5450;Kamienie skaly ulozone na sobie, w których wyryte sa runy Freyi. Patrzac w przestrzen miedzy skalami widzisz drogowskaz. Zas na pólnoc jestes w stanie objac wzrokiem cale miasto.;polnoc;brak;brak;brak;x;x;x;Tak;2;2;x;0;
+5450;Kamienie skaly ulozone na sobie, w ktorych wyryte sa runy Freyi. Patrzac w przestrzen miedzy skalami widzisz drogowskaz. Zas na polnoc jestes w stanie objac wzrokiem cale miasto.;polnoc;brak;brak;brak;x;x;x;Tak;2;2;x;0;

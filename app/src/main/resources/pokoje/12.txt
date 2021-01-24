@@ -1,1 +1,1 @@
-12;Nowy obóz - Widnieje symbol Frei;brak;brak;wschod;brak;x;x;x;tak;53;50;x;0;
+12;Nowy obóz - Widnieje symbol Frei;brak;brak;wschod;brak;x;x;x;tak;54;50;x;0;
