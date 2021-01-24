@@ -24,16 +24,16 @@ public class Game {
     public Item[][][] getItems() { return items; }
     public void setItems(Item[][][] items) { this.items = items; }
 
-    public void rozpocznijgre(Player gracz, Inventory ekwipunekgracza){
+    public void rozpocznijgre(Player gracz, Inventory ekwipunekgracza, Events event){
 
         gracz.tworzeniepostaci();
         while(gameloop)
         {
-            wczytajpokoj(gracz.getPosition().x, gracz.getPosition().y);
+            wczytajpokoj(gracz.getPosition().x, gracz.getPosition().y, event);
             systemkomend(gracz,gracz.getPosition().x, gracz.getPosition().y,ekwipunekgracza);
         }
     }
-    public void wczytajpokoj(int tx, int ty)
+    public void wczytajpokoj(int tx, int ty, Events event)
     {
         if(this.matrix[tx][ty] == null)
         {
@@ -140,9 +140,9 @@ public class Game {
 
                             w=w+23;
                         }
-                        zaladujpokoj(tx,ty);
+                        zaladujpokoj(tx,ty, event);
                     }
-                    else zaladujpokoj(tx,ty);
+                    else zaladujpokoj(tx,ty, event);
                 }
             }
             catch (FileNotFoundException e) {
@@ -154,12 +154,13 @@ public class Game {
         }
         else
         {
-            zaladujpokoj(tx,ty);
+            zaladujpokoj(tx,ty, event);
         }
     }
 
-    public void zaladujpokoj(int tx, int ty)
+    public void zaladujpokoj(int tx, int ty, Events event)
     {
+        event.kontrolaeventu(tx,ty);
         this.matrix[tx][ty].inicjalizacjapokoju();
         int itemy = 0;
 

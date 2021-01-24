@@ -14,6 +14,7 @@ public class App {
         Player gracz = new Player();
         Game gameob = new Game();
         Inventory ekwipunekgracza = new Inventory();
+        Events event = new Events();
 
 
         FileReader pliczek = null;
@@ -60,7 +61,7 @@ public class App {
             int wybint2 = Integer.parseInt(wybint);
             switch (wybint2) {
                 case 1:
-                    gameob.rozpocznijgre(gracz, ekwipunekgracza);
+                    gameob.rozpocznijgre(gracz, ekwipunekgracza, event);
                     czywybranodobraopcje = false;
                 case 2:
                     FileReader plikautor = null;
