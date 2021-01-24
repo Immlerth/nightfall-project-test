@@ -1,1 +1,1 @@
-23;Plaza - Widnieje symbol Aigira;brak;poludnie;brak;brak;x;x;x;Tak;62;50;x;x;;;;;;;;;;;;;
+23;Plaza - Widnieje symbol Aigira;brak;poludnie;brak;brak;x;x;x;tak;62;50;x;0;

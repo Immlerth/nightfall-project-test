@@ -1,1 +1,1 @@
-21;Strzalka bez nazwy-Widnieje Symbol Heli(stary obuz);polnoc;brak;brak;zachod;x;x;x;Tak;13;46;x;x;;;;;;;;;;;;;
+21;Strzalka bez nazwy-Widnieje Symbol Heli(stary obuz);polnoc;brak;brak;brak;x;x;x;tak;13;46;x;0;
