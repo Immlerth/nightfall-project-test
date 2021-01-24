@@ -1,1 +1,1 @@
-4952;Twym oczom ukazuje sie brama polyskujaca od swiatla ksiezyca, na jej koronie siedzi stado krukow. Mozesz przejsc do innej lokacji.;brak;poludnie;wschod;zachod;x;x;x;tak;22;22;x;0;
+4952;Twym oczom ukazuje sie brama polyskujaca od swiatla ksiezyca, na jej koronie siedzi stado krukow. Mozesz przejsc do innej lokacji.;brak;poludnie;wschod;zachod;x;x;x;tak;2;2;x;0;
