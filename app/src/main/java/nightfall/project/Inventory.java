@@ -119,9 +119,7 @@ public class Inventory {
         }
         else System.out.println("Bron: brak");
         if(slotnalewejrecezajety[0] != null){
-            if(slotnalewejrecezajety[0].isCzydoprawadlon()) {
-                System.out.println("Tarcza: " + slotnalewejrecezajety[0].getNazwawek() + " Rodzaj: Tarcza Dodatkowy pancerz: " +slotnalewejrecezajety[1].getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +slotnalewejrecezajety[0].getHpzpancerzy());
-            }
+            System.out.println("Tarcza: " + slotnalewejrecezajety[0].getNazwawek() + " Rodzaj: Tarcza Dodatkowy pancerz: " +slotnalewejrecezajety[1].getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +slotnalewejrecezajety[0].getHpzpancerzy());
         }
         else System.out.println("Tarcza: brak");
         System.out.println("");

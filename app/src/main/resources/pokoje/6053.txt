@@ -1,0 +1,1 @@
+6053;item;brak;poludnie;brak;zachod;x;x;x;x;0;0;x;1;2;Tarcze wikinga;tarcza;17;Bedac przy drakkarze widzisz zawieszona o bakburte tarcze wikinga. ;Porządnie wykonana tarcza gotowa na wyprawy. ;x;x;x;x;x;tak;tak;x;x;0;0;2;0;0;3;0;0;

@@ -280,6 +280,20 @@ public class Game {
                     case "pomoc":
                         wyswietldostepnekomendy();
                         break;
+                    case "rezero":
+                        int zx=0;
+                        int zy=0;
+                        Scanner scanner9 = new Scanner(System.in);
+                        System.out.println("Podaj x:");
+                        if(scanner9.hasNextInt()) {
+                            zx = scanner9.nextInt();
+                        }
+                        System.out.println("Podaj y:");
+                        if(scanner9.hasNextInt()) {
+                            zy = scanner9.nextInt();
+                        }
+                        player.teleportacja(zx,zy);
+                        break;
                     case "uzyj":
                         if(ekiwp.ileprzedmiotowweq() == 0){
                             System.out.println("Nie masz zadnego przedmiotu w ekwipunku.");

@@ -1,0 +1,1 @@
+6350;item;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;1;45;Mapa skarbu;mapa;1;x;Mapa pokazuje zebys od wejscia na plaże udal się 2 razy na polnoc i raz na wschod. To miejsce jest zaznaczone X na mapie. ;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;

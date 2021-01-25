@@ -1,0 +1,1 @@
+5850;item;brak;brak;wschod;brak;x;x;x;x;0;0;x;1;8;Kotwica od malego statku;kotwica;19;Obchodzac drakkar natrafiasz na opartą o ster burte kotwice. ;Tylko szaleniec walczył by kotwica. ;x;x;x;x;tak;x;tak;x;x;8;0;0;1;0;0;25;4;

@@ -1,0 +1,1 @@
+6353;item;brak;poludnie;wschod;zachod;x;x;x;x;0;0;x;1;9969;Zloto;zloto;9; Widzisz na ziemi lezacy mieszek ze zlotem. ;x;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;
