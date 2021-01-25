@@ -1,1 +1,1 @@
-1;
+1;27;Helm Ivora;helm;17;x;Byl zbyt szalony aby nosić helm. ;tak;x;x;x;x;x;x;x;x;0;0;2;0;0;3;0;0;
