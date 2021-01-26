@@ -123,11 +123,11 @@ public class Game {
                             if(plik1[w+13].equals("tak")) this.items[tx][ty][i].setCzytobronjednoreczna(true);
                             else this.items[tx][ty][i].setCzytobronjednoreczna(false);
 
-                            if(plik1[w+14].equals("tak")) this.items[tx][ty][i].setCzytobrondystansowa(true);
-                            else this.items[tx][ty][i].setCzytobrondystansowa(false);
-
-                            if(plik1[w+15].equals("tak")) this.items[tx][ty][i].setCzytobrondwureczna(true);
+                            if(plik1[w+14].equals("tak")) this.items[tx][ty][i].setCzytobrondwureczna(true);
                             else this.items[tx][ty][i].setCzytobrondwureczna(false);
+
+                            if(plik1[w+15].equals("tak")) this.items[tx][ty][i].setCzytobrondystansowa(true);
+                            else this.items[tx][ty][i].setCzytobrondystansowa(false);
 
                             this.items[tx][ty][i].setObrazenawrecz(Integer.parseInt(plik1[w+16]));
                             this.items[tx][ty][i].setObrazenadystans(Integer.parseInt(plik1[w+17]));

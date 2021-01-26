@@ -75,11 +75,13 @@ public class Sellers {
                         if (sprzed[w + 13].equals("tak")) itemek.setCzytobronjednoreczna(true);
                         else itemek.setCzytobronjednoreczna(false);
 
-                        if (sprzed[w + 14].equals("tak")) itemek.setCzytobrondystansowa(true);
+                        if (sprzed[w + 14].equals("tak")) itemek.setCzytobrondwureczna(true);
+                        else itemek.setCzytobrondwureczna(false);
+
+                        if (sprzed[w + 15].equals("tak")) itemek.setCzytobrondystansowa(true);
                         else itemek.setCzytobrondystansowa(false);
 
-                        if (sprzed[w + 15].equals("tak")) itemek.setCzytobrondwureczna(true);
-                        else itemek.setCzytobrondwureczna(false);
+
 
                         itemek.setObrazenawrecz(Integer.parseInt(sprzed[w + 16]));
                         itemek.setObrazenadystans(Integer.parseInt(sprzed[w + 17]));

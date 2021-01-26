@@ -164,11 +164,11 @@ public class Battle {
                         if(itemy[w+13].equals("tak")) this.loot[k].setCzytobronjednoreczna(true);
                         else this.loot[k].setCzytobronjednoreczna(false);
 
-                        if(itemy[w+14].equals("tak")) this.loot[k].setCzytobrondystansowa(true);
-                        else this.loot[k].setCzytobrondystansowa(false);
-
-                        if(itemy[w+15].equals("tak")) this.loot[k].setCzytobrondwureczna(true);
+                        if(itemy[w+14].equals("tak")) this.loot[k].setCzytobrondwureczna(true);
                         else this.loot[k].setCzytobrondwureczna(false);
+
+                        if(itemy[w+15].equals("tak")) this.loot[k].setCzytobrondystansowa(true);
+                        else this.loot[k].setCzytobrondystansowa(false);
 
                         this.loot[k].setObrazenawrecz(Integer.parseInt(itemy[w+16]));
                         this.loot[k].setObrazenadystans(Integer.parseInt(itemy[w+17]));
