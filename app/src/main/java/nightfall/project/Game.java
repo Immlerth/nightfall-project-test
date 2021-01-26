@@ -161,6 +161,7 @@ public class Game {
     public void zaladujpokoj(int tx, int ty, Events event)
     {
         event.kontrolaeventu(tx,ty);
+        if(event.czykoniecgry()) wygrana();
         this.matrix[tx][ty].inicjalizacjapokoju();
         int itemy = 0;
 
@@ -405,9 +406,17 @@ public class Game {
 
     public void przegrana()
     {
-        System.out.println("Niestety, twoja postac zginela. Zakonczyl sie epizod tej gry. Pamietaj jednak, ze nadal mozesz sprobowac jeszcze raz");
+        System.out.println("Niestety, twoja postac zginela. Zakonczyl sie epizod tej gry. Pamietaj jednak, ze nadal mozesz sprobowac jeszcze raz.");
     }
-
+    public void wygrana()
+    {
+        System.out.println("Gratulacje. Udalo ci sie przejsc gre 'Nightfall'. Mamy nadzieje ze nie napotkales za duzo bledow. ");
+        System.out.println("Autorzy: ");
+        System.out.println("Bartosz Jurczyk - dyrektor kreatywny i programista ");
+        System.out.println("Arkadiusz Jozefczak - glowny programista ");
+        System.out.println("Kamil Wator - scenarzysta bez slownika ");
+        gameloop = false;
+    }
     public void zamknijpokoj(int ttx, int tty, int k)
     {
         if(k == 1) this.matrix[ttx][tty].setDrogapolnoc(false);

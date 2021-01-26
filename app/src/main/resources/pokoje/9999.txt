@@ -1,1 +1,1 @@
-9998;Wchodzisz do komnaty wypelnionej pobrzegi zlotem;polnoc;brak;brak;brak;x;x;x;x;0;0;x;1;48;Mnustwo zlota;mnustwo zlota;300;mozesz podniesc mnustwo zlota;Jesteś bogaty;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;
+9998;THE END;brak;brak;brak;brak;x;x;x;x;0;0;x;0

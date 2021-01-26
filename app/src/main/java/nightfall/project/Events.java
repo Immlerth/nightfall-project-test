@@ -1,6 +1,8 @@
 package nightfall.project;
 
 import java.io.*;
+import java.util.Scanner;
+
 public class Events {
     private String opis;
     private String id;
@@ -182,15 +184,16 @@ public class Events {
                 czywioska = true;
             }
         }
-        else if(x == 99 && y == 96){
+        else if(x == 99 && y == 99){
+            String decyzjaa = "";
+            String decyzjab = "";
+
             if(czynekro == false){
                 String nazwapliku = Integer.toString(x) + Integer.toString(y) + ".txt";
                 BufferedReader czyt = null;
                 File file = new File("eventy/" +nazwapliku);
                 String sciezka = file.getAbsolutePath();
 
-                String decyzjaa;
-                String decyzjab;
                 try
                 {
                     czyt = new BufferedReader(new FileReader(sciezka));
@@ -211,8 +214,40 @@ public class Events {
                 }
 
                 System.out.println(opis);
-                czywioska = true;
+                System.out.println("Jaka chcesz podjac decyzje?");
+                System.out.println("[1] Podejdz i wbij ostrze w nekromante");
+                System.out.println("[2] Zostaw nekromante w spokoju");
+                Scanner scanner = new Scanner(System.in);
+                String xd;
+                xd = scanner.nextLine();
+
+                boolean dobrad = true;
+                while(dobrad == true)
+                {
+                    switch(xd) {
+                        case "1":
+                            System.out.println(decyzjaa);
+                            dobrad = false;
+                            break;
+                        case "2":
+                            System.out.println(decyzjab);
+                            dobrad = false;
+                            break;
+                        default:
+                            System.out.println("Zla decyzja");
+                    }
+                }
+
+                     czynekro = true;
             }
+        }
+    }
+    public boolean czykoniecgry(){
+        if(czynekro){
+            return true;
+        }
+        else{
+            return false;
         }
     }
 }
