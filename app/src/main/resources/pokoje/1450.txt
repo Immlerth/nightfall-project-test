@@ -1,1 +1,1 @@
-1450;Wie?a nekromanty;polnoc;poludnie;wschod;zachod;x;x;x;tak;99;99;x;0;
+1450;Wie?a nekromanty;polnoc;poludnie;wschod;zachod;x;x;x;tak;99;96;x;0;
