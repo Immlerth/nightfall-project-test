@@ -147,15 +147,16 @@ public class Sellers {
                 }
                 else if(items.get(i).isCzydoprawadlon())
                 {
-                    if(items.get(i).isCzytobrondystansowa() == true){
-                        System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
-                        System.out.println("Rodzaj: Bron dystansowa, Wartosc obrazen dystansowych: od " + items.get(i).getMinimumobrazen() +" do " + + items.get(i).getObrazenadystans() + ", Zasieg ataku dystansowego: " + items.get(i).getZasiegdystans()  + ", Szansa trafienia: +" + items.get(i).getSzansatrafienia());
-                        System.out.println("Opis: " + items.get(i).getOpiswek());
-                    }
-                    else
+
+                    if(items.get(i).isCzytobronjednoreczna())
                     {
                         System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
                         System.out.println("Rodzaj: Bron jednoreczna, Wartosc obrazen wrecz: od " + items.get(i).getMinimumobrazen() +" do " + items.get(i).getObrazenawrecz() + ", Zasieg ataku wrecz: " + items.get(i).getZasiegwrecz() + ", Szansa trafienia: +" + items.get(i).getSzansatrafienia());
+                        System.out.println("Opis: " + items.get(i).getOpiswek());
+                    }
+                    else {
+                        System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
+                        System.out.println("Rodzaj: Bron dystansowa, Wartosc obrazen dystansowych: od " + items.get(i).getMinimumobrazen() +" do " + + items.get(i).getObrazenadystans() + ", Zasieg ataku dystansowego: " + items.get(i).getZasiegdystans()  + ", Szansa trafienia: +" + items.get(i).getSzansatrafienia());
                         System.out.println("Opis: " + items.get(i).getOpiswek());
                     }
                 }
