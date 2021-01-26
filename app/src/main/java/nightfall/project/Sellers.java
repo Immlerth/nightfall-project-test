@@ -130,7 +130,7 @@ public class Sellers {
                 else if(items.get(i).isCzynatulw())
                 {
                     System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
-                    System.out.println("Rodzaj: Pancerz, Wartosc pancerza na tulowie: " + items.get(i).getWartoscpancerza() + ", Wartsc bonusowego HP: "+ items.get(i).getHpzpancerzy());
+                    System.out.println("Rodzaj: Pancerz, Wartosc pancerza na tulowiu: " + items.get(i).getWartoscpancerza() + ", Wartsc bonusowego HP: "+ items.get(i).getHpzpancerzy());
                     System.out.println("Opis: " + items.get(i).getOpiswek());
                 }
                 else if(items.get(i).isCzynarece())
