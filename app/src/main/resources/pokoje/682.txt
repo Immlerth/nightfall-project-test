@@ -1,0 +1,1 @@
+682;item;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;1;24;Pancerz Odyna;pancerz odyna;29;x;Zaden lodowy gigant si? nie przebi? przez ten pancerz;x;tak;x;x;x;x;x;x;x;0;0;4;0;0;6;0;0;

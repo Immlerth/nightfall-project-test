@@ -1,0 +1,1 @@
+680;item;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;1;4;Tarcze odyna;tarcza odyna;29;ddd;Ta tarcza uratowala samego Odyna podczas wojny w Nilfheimie;x;x;x;x;x;tak;tak;x;x;0;0;4;0;0;6;0;0;
