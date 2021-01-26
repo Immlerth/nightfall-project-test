@@ -320,6 +320,7 @@ public class Battle {
                         ostateczneobrazenia = ostateczneobrazenia - player.getPancerznogi();
                     }
                     int zas = px-gx;
+                    if(ostateczneobrazenia < 0) ostateczneobrazenia = 0;
                     System.out.println("Przeciwnik trafil cie! Zadaje ci " + ostateczneobrazenia + " obrazen w " + pozycja + " oraz dodatkowe obrazenia za zasieg rowne" + zas);
                     player.setHealthPoints(player.getHealthPoints() - ((ostateczneobrazenia)+zas));
                 }
@@ -392,7 +393,7 @@ public class Battle {
                 pozycja = "nogi";
                 ostateczneobrazenia = ostateczneobrazenia - player.getPancerznogi();
             }
-
+            if(ostateczneobrazenia < 0) ostateczneobrazenia = 0;
             System.out.println("Przeciwnik trafil cie! Zadaje ci " + ostateczneobrazenia + " obrazen w " + pozycja + ".");
             player.setHealthPoints(player.getHealthPoints() - (ostateczneobrazenia));
         }
@@ -455,7 +456,7 @@ public class Battle {
                     pozycja = "nogi";
                     ostateczneobrazenia = ostateczneobrazenia - enemy[0].getPancerznogi();
                 }
-
+                if(ostateczneobrazenia < 0) ostateczneobrazenia = 0;
                 System.out.println("Udalo ci sie trafic przeciwnika! Zadajesz mu " + ostateczneobrazenia + " obrazen w " + pozycja + " oraz dodatkowe obrazenia za zasieg rowne" + zas);
                 enemy[0].setHealthPoints(enemy[0].getHealthPoints() - ((ostateczneobrazenia)+zas));
             }
@@ -493,7 +494,7 @@ public class Battle {
                     pozycja = "nogi";
                     ostateczneobrazenia = ostateczneobrazenia - enemy[0].getPancerznogi();
                 }
-
+                if(ostateczneobrazenia < 0) ostateczneobrazenia = 0;
                 System.out.println("Udalo ci sie trafic przeciwnika! Zadajesz mu " + ostateczneobrazenia + " obrazen w " + pozycja + ".");
                 enemy[0].setHealthPoints(enemy[0].getHealthPoints() - (ostateczneobrazenia));
             }
