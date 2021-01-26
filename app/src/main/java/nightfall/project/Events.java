@@ -7,6 +7,10 @@ public class Events {
     private boolean czywstep = false;
     private boolean czydom = false;
     private boolean czywieszcz = false;
+    private boolean czydrakkar = false;
+    private boolean czywioska = false;
+    private boolean czystudnia = false;
+    private boolean czynekro = false;
     public void kontrolaeventu(int x, int y){
         if(x == 50 && y == 50){
             if(czywstep == false){
@@ -90,6 +94,26 @@ public class Events {
 
                 System.out.println(opis);
                 czywieszcz = true;
+            }
+        }
+        else if(x == 59 && y == 52){
+            if(czydrakkar == false){
+
+            }
+        }
+        else if(x == 59 && y == 52){
+            if(czydrakkar == true && czywioska == false){
+
+            }
+        }
+        else if(x == 5 && y == 81){
+            if(czystudnia == false){
+
+            }
+        }
+        else if(x == 99 && y == 96){
+            if(czynekro == false){
+
             }
         }
     }

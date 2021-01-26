@@ -1,1 +1,1 @@
-5950;filer;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;
+5950;filer;brak;brak;wschod;zachod;x;x;x;x;0;0;x;0;

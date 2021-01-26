@@ -402,5 +402,13 @@ public class Game {
     {
         System.out.println("Niestety, twoja postac zginela. Zakonczyl sie epizod tej gry. Pamietaj jednak, ze nadal mozesz sprobowac jeszcze raz");
     }
+
+    public void zamknijpokoj(int ttx, int tty, int k)
+    {
+        if(k == 1) this.matrix[ttx][tty].setDrogapolnoc(false);
+        else if(k == 2) this.matrix[ttx][tty].setDrogapoludnie(false);
+        else if(k == 3) this.matrix[ttx][tty].setDrogawschod(false);
+        else if(k == 4) this.matrix[ttx][tty].setDrogazachod(false);
+    }
 }
 
