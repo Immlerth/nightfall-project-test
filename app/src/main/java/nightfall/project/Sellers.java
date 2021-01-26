@@ -149,13 +149,13 @@ public class Sellers {
                 {
                     if(items.get(i).isCzytobrondystansowa() == true){
                         System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
-                        System.out.println("Rodzaj: Bron dystansowa, Obrazenia: " + items.get(i).getObrazenadystans() + ", Zasieg: "+ items.get(i).getZasiegdystans());
+                        System.out.println("Rodzaj: Bron dystansowa, Wartosc obrazen dystansowych: od " + items.get(i).getMinimumobrazen() +" do " + + items.get(i).getObrazenadystans() + ", Zasieg ataku dystansowego: " + items.get(i).getZasiegdystans()  + ", Szansa trafienia: +" + items.get(i).getSzansatrafienia());
                         System.out.println("Opis: " + items.get(i).getOpiswek());
                     }
                     else
                     {
                         System.out.println(k + ". " + items.get(i).getNazwawek() + ", Wartosc: " + wartosc);
-                        System.out.println("Rodzaj: Bron jednoreczna, Obrazenia: " + items.get(i).getObrazenawrecz() + ", Zasieg: "+ items.get(i).getZasiegwrecz());
+                        System.out.println("Rodzaj: Bron jednoreczna, Wartosc obrazen wrecz: od " + items.get(i).getMinimumobrazen() +" do " + items.get(i).getObrazenawrecz() + ", Zasieg ataku wrecz: " + items.get(i).getZasiegwrecz() + ", Szansa trafienia: +" + items.get(i).getSzansatrafienia());
                         System.out.println("Opis: " + items.get(i).getOpiswek());
                     }
                 }

@@ -100,13 +100,13 @@ public class Inventory {
 
         System.out.println("---------------------------------------------------------");
         System.out.println("Twoj wyekwipowane przedmioty to: ");
-        if(slotnaglowiezajety[0] != null) System.out.println("Glowa: " + slotnaglowiezajety[0].getNazwawek() + " Wartosc ochrony: " +slotnaglowiezajety[0].getWartoscpancerza() + ", Dodatkowe maksymale HP: +" +slotnaglowiezajety[0].getHpzpancerzy());
+        if(slotnaglowiezajety[0] != null) System.out.println("Glowa: " + slotnaglowiezajety[0].getNazwawek() + " Wartosc ochrony: " +slotnaglowiezajety[0].getWartoscpancerza() + ", Dodatkowe maksymalne HP: +" +slotnaglowiezajety[0].getHpzpancerzy());
         else System.out.println("Glowa: brak");
-        if(slotnatulowiuzajety[0] != null) System.out.println("Tors: " + slotnatulowiuzajety[0].getNazwawek() + " Wartosc ochrony: " +slotnatulowiuzajety[0].getWartoscpancerza()+ ", Dodatkowe maksymale HP: +" +slotnatulowiuzajety[0].getHpzpancerzy());
+        if(slotnatulowiuzajety[0] != null) System.out.println("Tors: " + slotnatulowiuzajety[0].getNazwawek() + " Wartosc ochrony: " +slotnatulowiuzajety[0].getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +slotnatulowiuzajety[0].getHpzpancerzy());
         else System.out.println("Tors: brak");
-        if(slotnarecezajety[0] != null) System.out.println("Rece: " + slotnarecezajety[0].getNazwawek() + " Wartosc ochrony: " +slotnarecezajety[0].getWartoscpancerza()+ ", Dodatkowe maksymale HP: +" +slotnarecezajety[0].getHpzpancerzy());
+        if(slotnarecezajety[0] != null) System.out.println("Rece: " + slotnarecezajety[0].getNazwawek() + " Wartosc ochrony: " +slotnarecezajety[0].getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +slotnarecezajety[0].getHpzpancerzy());
         else System.out.println("Rece: brak");
-        if(slotnanogizajety[0] != null) System.out.println("Buty: " + slotnanogizajety[0].getNazwawek() + " Wartosc ochrony: " +slotnanogizajety[0].getWartoscpancerza()+ ", Dodatkowe maksymale HP: +" +slotnanogizajety[0].getHpzpancerzy());
+        if(slotnanogizajety[0] != null) System.out.println("Buty: " + slotnanogizajety[0].getNazwawek() + " Wartosc ochrony: " +slotnanogizajety[0].getWartoscpancerza()+ ", Dodatkowe maksymalne HP: +" +slotnanogizajety[0].getHpzpancerzy());
         else System.out.println("Buty: brak");
         if(slotnaprawejrecezajety[0] != null){
             if(slotnaprawejrecezajety[0].isCzytobronjednoreczna()) {
@@ -184,7 +184,7 @@ public class Inventory {
                 gracz.resetdys();
                 slotnaprawejrecezajety[0] = items.get(ile);
                 if (items.get(ile).isCzytobronjednoreczna()) gracz.addobrwr(items.get(ile).getObrazenawrecz());
-                else if (items.get(ile).isCzytobrondystansowa()) gracz.addobrwr(items.get(ile).getObrazenadystans());
+                else if (items.get(ile).isCzytobrondystansowa()) gracz.addobrd(items.get(ile).getObrazenadystans());
                 System.out.println("Zalozono przedmiot " + items.get(ile).getNazwawek());
             } else if (items.get(ile).isCzydolewadlon()) {
                 gracz.resettar();
