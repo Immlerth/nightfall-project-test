@@ -110,7 +110,7 @@ public class Inventory {
         else System.out.println("Buty: brak");
         if(slotnaprawejrecezajety[0] != null){
             if(slotnaprawejrecezajety[0].isCzytobronjednoreczna()) {
-                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron jednoręczna Obrazenia wręcz: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenawrecz()+", Zasieg ataku wrecz: " + slotnaprawejrecezajety[0].getZasiegwrecz());
+                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron jednorezna Obrazenia wręcz: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenawrecz()+", Zasieg ataku wrecz: " + slotnaprawejrecezajety[0].getZasiegwrecz());
             }
             else if(slotnaprawejrecezajety[0].isCzytobrondystansowa())
             {
