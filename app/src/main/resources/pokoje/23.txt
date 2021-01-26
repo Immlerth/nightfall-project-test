@@ -1,1 +1,1 @@
-23;Plaza - Widnieje symbol Aigira;brak;poludnie;brak;brak;x;x;x;tak;62;50;x;0;
+23;Docierasz do tajemniczego miejsca pelnego portali. Zauwazasz na kamieniu obok portalu symbol Aigira oraz przez portal piasek. ;brak;poludnie;brak;brak;x;x;x;tak;62;50;x;0;

@@ -1,1 +1,1 @@
-5552;Tablica;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+5552;Widzisz kilkanascie ogloszen mieszkancow tego miasta. "Sprzedam woz bez kol. 20 sztuk zlota", "Poszukiwani zywi lub martwi zlodzieje ciala. Nagroda 120 sztuk zlota.", "Znany klub bijatyk 'Naj-man' szuka nowych czlonkow. Wpisowe 50 sztuk zlota.", "Palaczy bagiennego ziela prosimy o nie smrodzenie na srodku miasta. Straz miejska." Poza tym nie znalazles tutaj nic ciekawego. ;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

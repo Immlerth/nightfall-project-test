@@ -1,1 +1,1 @@
-21;Strzalka bez nazwy-Widnieje Symbol Heli(stary obuz);polnoc;brak;brak;brak;x;x;x;tak;8;80;x;0;
+21;Docierasz do tajemniczego miejsca pelnego portali. Widzisz na kamieniu obok portalu zamazany symbol, najwidoczniej ktos nie chcial, by ktos przechodzil przez ten portal. ;polnoc;brak;brak;brak;x;x;x;tak;8;80;x;0;

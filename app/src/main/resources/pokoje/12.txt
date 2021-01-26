@@ -1,1 +1,1 @@
-12;Nowy obóz - Widnieje symbol Frei;brak;brak;wschod;brak;x;x;x;tak;54;50;x;0;
+12;Docierasz do tajemniczego miejsca pelnego portali. Przy portalu widzisz symbol Frei oraz przez portal jakby mury jakiegos miasta. ;brak;brak;wschod;brak;x;x;x;tak;54;50;x;0;

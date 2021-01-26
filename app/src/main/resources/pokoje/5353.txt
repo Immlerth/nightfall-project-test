@@ -1,1 +1,1 @@
-5353;Easter Egg;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
+5353;Wchodzisz do lewej odnogi miasta tuz przy Zielarzu. Idziesz wglab drogi, ogladajac piekna architekture miasta. W koncu docierasz do konca drogi, gdzie pewien mezczyzna siedzi na lawce. Gdy tylko cie zobaczyl, podbiegl do ciebie "Witaj! Zgubiles sie? Moge byc twoim najlepszym przyjacielem, naprawde. Ostatnia osoba ktora tedy szla uciekla. Naprawde, moge ci pomoc!" Po tych slowach postanowiles zawrocic na glowna droge. ;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
