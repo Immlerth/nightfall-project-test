@@ -319,7 +319,12 @@ public class Game {
                         player.setHealthPoints(1);
                         break;
                     case "kamil":
-                        ekiwp.setPieniadze(100);
+                        ekiwp.setPieniadze(10000);
+                        break;
+                    case "god":
+                        player.setMaxhp(1000);
+                        player.setHealthPoints(1000);
+                        player.setSila(1000);
                         break;
                     case "wyjdz":
                     case "exit":

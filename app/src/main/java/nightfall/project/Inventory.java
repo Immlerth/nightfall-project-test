@@ -110,11 +110,11 @@ public class Inventory {
         else System.out.println("Buty: brak");
         if(slotnaprawejrecezajety[0] != null){
             if(slotnaprawejrecezajety[0].isCzytobronjednoreczna()) {
-                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron jednoręczna Obrazenia wręcz: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenawrecz()+", Zasieg ataku wrecz: " + items.get(licznik).getZasiegwrecz());
+                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron jednoręczna Obrazenia wręcz: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenawrecz()+", Zasieg ataku wrecz: " + slotnaprawejrecezajety[0].getZasiegwrecz());
             }
             else if(slotnaprawejrecezajety[0].isCzytobrondystansowa())
             {
-                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron dystansowa Obrazenia dystansowe: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenadystans()+", Zasieg ataku dystansowego: " + items.get(licznik).getZasiegdystans());
+                System.out.println("Bron: " + slotnaprawejrecezajety[0].getNazwawek() + " Rodzaj: Bron dystansowa Obrazenia dystansowe: od " +slotnaprawejrecezajety[0].getMinimumobrazen()+ " do " + slotnaprawejrecezajety[0].getObrazenadystans()+", Zasieg ataku dystansowego: " + slotnaprawejrecezajety[0].getZasiegdystans());
             }
         }
         else System.out.println("Bron: brak");
