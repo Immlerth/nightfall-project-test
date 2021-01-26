@@ -262,8 +262,11 @@ public class Player {
         System.out.println("Kondycja " + kondycja);
         System.out.println("Szybkosc " + szybkosc);
         System.out.println("Punkty zycia: " + healthPoints);
+        System.out.println("Punkty zycia: " + maxhp);
         System.out.println("Podstawowe obrazenia wrecz " + sila);
-        System.out.println("Podstawowe obrazenia na dystans " + obrazeniadystans);
+        System.out.println("Maksymalne obrazenia wrecz " + obrazeniawrecz);
+        System.out.println("Podstawowe obrazenia na dystans " + zrecznosc);
+        System.out.println("Maksymalne obrazenia na dystans " + obrazeniadystans);
         boolean decyzja = true;
         while(decyzja){
         System.out.println("Czy chcesz rozpoczac gre?");
