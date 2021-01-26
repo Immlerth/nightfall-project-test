@@ -1,0 +1,1 @@
+1250;Przed soba widzisz polane.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;1;10;Miecz(Zabojca Gigantow);zabojca gigantow;35;Na srodku polany dostrzegasz wbity w pieniek miecz zabojcy gigantow;Nie jeden lodowy gigant polegl od tego ostrzua;x;x;x;x;tak;x;tak;x;x;12;0;0;1;0;0;30;8;
