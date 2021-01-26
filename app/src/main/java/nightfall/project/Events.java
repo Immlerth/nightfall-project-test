@@ -184,7 +184,34 @@ public class Events {
         }
         else if(x == 99 && y == 96){
             if(czynekro == false){
+                String nazwapliku = Integer.toString(x) + Integer.toString(y) + ".txt";
+                BufferedReader czyt = null;
+                File file = new File("eventy/" +nazwapliku);
+                String sciezka = file.getAbsolutePath();
 
+                String decyzjaa;
+                String decyzjab;
+                try
+                {
+                    czyt = new BufferedReader(new FileReader(sciezka));
+                    String line = "";
+                    while ((line = czyt.readLine()) != null) {
+                        String [] plik1 = line.split(";");
+                        id = plik1[0];
+                        opis = plik1[1];
+                        decyzjaa = plik1[2];
+                        decyzjab = plik1[3];
+                    }
+                }
+                catch (FileNotFoundException e) {
+                    System.out.println("Blad" + e);
+                }
+                catch (IOException e) {
+                    System.out.println("Blad" + e);
+                }
+
+                System.out.println(opis);
+                czywioska = true;
             }
         }
     }
