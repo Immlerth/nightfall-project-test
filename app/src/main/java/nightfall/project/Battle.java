@@ -175,10 +175,9 @@ public class Battle {
                         this.loot[k].setWartoscpancerza(Integer.parseInt(itemy[w+18]));
                         this.loot[k].setZasiegwrecz(Integer.parseInt(itemy[w+19]));
                         this.loot[k].setZasiegdystans(Integer.parseInt(itemy[w+20]));
-                        this.loot[k].setMinimumobrazen(Integer.parseInt(itemy[w+21]));
+                        this.loot[k].setHpzpancerzy(Integer.parseInt(itemy[w+21]));
                         this.loot[k].setSzansatrafienia(Integer.parseInt(itemy[w+22]));
-                        this.loot[k].setHpzpancerzy(Integer.parseInt(itemy[w+23]));
-
+                        this.loot[k].setMinimumobrazen(Integer.parseInt(itemy[w+23]));
                         w=w+23;
                     }
                 }

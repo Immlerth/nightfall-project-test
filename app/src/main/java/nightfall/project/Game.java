@@ -134,9 +134,9 @@ public class Game {
                             this.items[tx][ty][i].setWartoscpancerza(Integer.parseInt(plik1[w+18]));
                             this.items[tx][ty][i].setZasiegwrecz(Integer.parseInt(plik1[w+19]));
                             this.items[tx][ty][i].setZasiegdystans(Integer.parseInt(plik1[w+20]));
-                            this.items[tx][ty][i].setMinimumobrazen(Integer.parseInt(plik1[w+21]));
+                            this.items[tx][ty][i].setHpzpancerzy(Integer.parseInt(plik1[w+21]));
                             this.items[tx][ty][i].setSzansatrafienia(Integer.parseInt(plik1[w+22]));
-                            this.items[tx][ty][i].setHpzpancerzy(Integer.parseInt(plik1[w+23]));
+                            this.items[tx][ty][i].setMinimumobrazen(Integer.parseInt(plik1[w+23]));
 
                             w=w+23;
                         }

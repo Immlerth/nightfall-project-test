@@ -86,9 +86,9 @@ public class Sellers {
                         itemek.setWartoscpancerza(Integer.parseInt(sprzed[w + 18]));
                         itemek.setZasiegwrecz(Integer.parseInt(sprzed[w + 19]));
                         itemek.setZasiegdystans(Integer.parseInt(sprzed[w + 20]));
-                        itemek.setMinimumobrazen(Integer.parseInt(sprzed[w + 21]));
+                        itemek.setHpzpancerzy(Integer.parseInt(sprzed[w + 21]));
                         itemek.setSzansatrafienia(Integer.parseInt(sprzed[w + 22]));
-                        itemek.setHpzpancerzy(Integer.parseInt(sprzed[w + 23]));
+                        itemek.setMinimumobrazen(Integer.parseInt(sprzed[w + 23]));
 
                         items.add(itemek);
                         w = w + 23;
