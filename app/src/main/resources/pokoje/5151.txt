@@ -1,1 +1,1 @@
-5151;Filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+5151;Smrod i dziwne dzwieki. Tylko tak mozna opisac miejsce, w ktorym sie znajdujesz. Masz wrazenie jakby ze wszystkich stron cos ciebie obserwowalo.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

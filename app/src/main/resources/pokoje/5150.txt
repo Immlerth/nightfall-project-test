@@ -1,1 +1,1 @@
-5150;Walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;szkielet;0;
+5150;Nagle potykasz sie o wystajaca kosc z podlogi. Przed Toba lezy sterta ludzkich szczatkow. Podnosisz sie.;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;szkielet;0;

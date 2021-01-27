@@ -1,1 +1,1 @@
-5149;Filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+5149;Wszedzie jest ciemno, mokro i nieprzyjemnie.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-5049;Walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;pies;0;
+5049;Katem oka widzisz dziwna kulke, wyrozniajaca sie z otoczenia. Przypomina ksztaltem truchlo jakiejs czworonoznej kreatury.;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;pies;0;

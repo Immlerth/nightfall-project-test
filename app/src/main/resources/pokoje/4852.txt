@@ -1,1 +1,1 @@
-4852;Filer;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
+4852;Jestes w rogu cmentarza. Z jednej strony slyszysz swist wiatru. Odor w tym miejscu jest nie do zniesienia.;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
