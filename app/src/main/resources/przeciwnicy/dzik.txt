@@ -1,1 +1,1 @@
-dzik;dzik;Przechodz?c przez wyryte dziury, nagle zza drzew wybieg? w?ciek?y dzik ca?y pokryty br?zowym futrem i b?otem. Jego krwi?cie czerwone ?lepia wpatruj? si? w ciebie, po czym rusza z impetem w twoim kierunku.;14;5;2;3;4;28;5;0;3;3;3;3;1;0;12;73;0;
+dzik;dzik;Przechodzac przez wyryte dziury, nagle zza drzew wybiegl wsciekly dzik caly pokryty brazowym futrem i blotem. Jego krwiscie czerwone slepia wpatruja sie w ciebie, po czym rusza z impetem w twoim kierunku.;14;5;2;3;4;28;5;0;3;3;3;3;1;0;12;73;0;

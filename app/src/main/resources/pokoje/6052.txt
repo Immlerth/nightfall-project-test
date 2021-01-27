@@ -1,1 +1,1 @@
-6052;Przechodzisz obok drakkaru na polnoc. Widzisz sporo kamieni na plazy i dzikiej roslinnosci. ;polnoc;poludnie;brak;brak;x;x;x;x;0;0;x;0;
+6052;Przechodzisz obok drakkaru. Widzisz sporo kamieni na plazy i dzikiej roslinnosci. ;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;0;

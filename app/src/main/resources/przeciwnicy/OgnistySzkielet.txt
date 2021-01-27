@@ -1,1 +1,1 @@
-ognisty szkielet;OgnistySzkielet;"Z zgliszczy domu obok wstaje dziwna istota. Jej kosci sa wypalone i czarne jak heban a sama czaszka bezustannie plonie.";9;3;2;3;3;18;4;0;3;3;3;3;1;0;8;80;0;
+ognisty szkielet;OgnistySzkielet;Z zgliszczy domu obok wstaje dziwna istota. Jej kosci sa wypalone i czarne jak heban a sama czaszka bezustannie plonie.;9;3;2;3;3;18;4;0;3;3;3;3;1;0;8;80;0;

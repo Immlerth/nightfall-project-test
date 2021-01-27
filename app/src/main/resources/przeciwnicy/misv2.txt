@@ -1,1 +1,1 @@
-niedzwiedz2;misv2;Zbli?aj?c si? do wie?y, przej?cie zagradza wielki nied?wied? stoj?cy na dwóch ?apach, jego g?ow? jest naga czaszka a zamiast przednich ?ap ko?ciane pazury.;16;6;2;3;4;28;6;0;4;4;4;4;2;0;12;78;0;
+niedzwiedz2;misv2;Zblizajac sie do wiezy, przejscie zagradza wielki niedzwiedz stojacy na dwóch lapach, jego glowa jest naga czaszka, zamiast przednich lap kosciane pazury, a na jego plecach znajduje sie dluga wlocznia.;16;6;2;3;4;28;6;0;4;4;4;4;2;0;12;78;0;

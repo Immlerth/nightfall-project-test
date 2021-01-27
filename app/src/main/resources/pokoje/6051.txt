@@ -1,1 +1,1 @@
-6051;walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;ryboludz2;0;
+6051;Widzisz deski ktore porwadza na drakkar. Kilka desek spadlo do wody, ale po reszcie dalo by rade wspiac sie na poklad.;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;ryboludz2;0;
