@@ -1,1 +1,1 @@
-5249;Filer;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+5249;Jestes zmeczony. Opierajac sie o sciane musisz wybrac, w ktora chcesz pojsc.;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-5250;Filer;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+5250;Z jednej strony czujesz zimna sciane. Jestes przerazony, ale musisz sie jakos stad wydostac.;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

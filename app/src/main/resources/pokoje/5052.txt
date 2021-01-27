@@ -1,1 +1,1 @@
-5052;Filer;brak;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+5052;Jedna reka opierasz sie o sciane. Slyszysz swist wiatru w jednym uchu. Z drugiej strony czujesz okropny odor.  ;brak;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

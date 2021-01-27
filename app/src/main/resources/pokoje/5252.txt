@@ -1,1 +1,1 @@
-5252;Filer;brak;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+5252;Idac dalej, NAGLE z mroku wylania sie twoj najwiekszy wrog. Wpadasz prosto na sciane i obijasz sobie twarz.;brak;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

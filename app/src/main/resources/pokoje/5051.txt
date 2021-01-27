@@ -1,1 +1,1 @@
-5051;Filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+5051;Otacza ciebie calkowita ciemnosc. Co chwilke potykasz sie o luzne cegly. Slyszysz ze wszystkich stron dziwne jeki.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-4849;Filer;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
+4849;Widzisz obok siebie sporo kosci. Dzieki scianie utrzymujesz rownowage i jestes w stanie spokojnie isc dalej.;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-4949;Filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+4949;Zaczynasz modlic sie do Odyna, aby jak najszybciej uciec z tego miejsca.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
