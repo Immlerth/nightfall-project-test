@@ -1,1 +1,1 @@
-1151;Idac scieszka wchodzisz w moczary. Idac przed siebie masz wody pod kostki, po hwili pod kolana za moment siega juz pasa. Dalej na pulnoc nie jeste? w stanie isc.;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
+1151;Idac sciezka wchodzisz w moczary. Idac przed siebie masz wode pod kostki, po chwili masz ja juz pod kolana, a idac dalej masz juz ja pod pachy. Dalsza droga na polnoc nie jest mozliwa. ;brak;poludnie;wschod;brak;x;x;x;x;0;0;x;0;

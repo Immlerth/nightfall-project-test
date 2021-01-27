@@ -1,1 +1,1 @@
-1550;walka;polnoc;poludnie;brak;zachod;tak;x;x;x;0;0;piesv2;0;
+1550;Dotarles do wschodniej sciany wiezy nekromanty. Jest tutaj zimno i mrocznie, a ziemia przypomina ciemne kolory. ;polnoc;poludnie;brak;zachod;tak;x;x;x;0;0;piesv2;0;

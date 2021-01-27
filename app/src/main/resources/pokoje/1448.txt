@@ -1,1 +1,1 @@
-1448;Odczuwasz w powietrzu unosz?c? sie smierc. Na pulnoc widzisz ju? zarys wiezy nekromanty.;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+1448;Odczuwasz w powietrzu unoszaca sie smierc. Na polnoc widzisz juz zarys wiezy nekromanty. ;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

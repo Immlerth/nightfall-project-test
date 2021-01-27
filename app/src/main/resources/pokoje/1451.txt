@@ -1,1 +1,1 @@
-1451;walka;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;piesv2;0;
+1451;Dotarles do polnocnej sciany wiezy nekromanty. Jest tutaj zimno i mrocznie, a ziemia przypomina ciemne kolory. ;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;piesv2;0;

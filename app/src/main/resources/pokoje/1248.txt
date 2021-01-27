@@ -1,1 +1,1 @@
-1248;walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;dzik;0;
+1248;Wdarles sie do srodka lasu. Roslinnosc tutaj jest bardzo drobna, a przy kilku drzewach mozna zauwazyc zdarta kore z drzew, co moze sugerowac bytnosc jakis zwierzat w tym borze. ;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;dzik;0;

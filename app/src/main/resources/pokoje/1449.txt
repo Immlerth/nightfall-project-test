@@ -1,1 +1,1 @@
-1449;walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;misv2;0;
+1449;Przed twoimi oczami rozposciera sie wieza nekromanty, w calej swojej okazalosci. Spostrzegasz kamienne schody ktore prowadza do wnetrza wiezy, natomiast naokolo widzisz ciemna ziemie oraz zupelny brak roslinnosci. ;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;misv2;0;

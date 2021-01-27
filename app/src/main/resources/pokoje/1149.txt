@@ -1,1 +1,1 @@
-1149;Idziesz lasem noc? co jaki? czasz s?yszysz szmery z zaro?li. Wszystkie twoje zmys?y s? wyostrzone i w gotowo?ci na wypadek walki.;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;0;
+1149;Idziesz lasem noca co jakis czasz slyszysz szmery z zarosli. Wszystkie twoje zmysly sa wyostrzone i w gotowosci na wypadek walki. ;polnoc;poludnie;wschod;brak;x;x;x;x;0;0;x;0;

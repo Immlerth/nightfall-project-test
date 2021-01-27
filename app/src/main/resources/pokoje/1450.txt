@@ -1,1 +1,1 @@
-1450;Wie?a nekromanty;polnoc;poludnie;wschod;zachod;x;x;x;tak;99;96;x;0;
+1450;Wchodzac glebiej do wiezy, spostrzegasz magiczny portal, ktory otoczony jest kamiennym murkiem oraz duza iloscia nieznanych ci znakow. Najwidoczniej jest to wejscie na wysze poziomy budynku. ;polnoc;poludnie;wschod;zachod;x;x;x;tak;99;96;x;0;

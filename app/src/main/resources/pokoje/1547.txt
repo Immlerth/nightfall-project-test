@@ -1,1 +1,1 @@
-1547;Przedzieraj?c si? przez zaro?la czujesz w powietrzu unosz?cy si? zapach trupa.;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+1547;Przedzierajac sie przez zarosla czujesz w powietrzu unoszacy sie zapach trupa. ;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-1548;las robi sie coraz gestrzy chcac odpoczac chwile opierasz sie o jedno z drzew.;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;1;49;Slownik;ksiazka;64;Z dziupli wystaje pewna ksiazka;Jest to slownik jezykowy. Przydal by sie jednemu z twurcow.;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;
+1548;Las robi sie coraz gestrzy chcac odpoczac chwile opierasz sie o jedno z drzew. ;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;1;49;Slownik;ksiazka;64;Z dziupli wystaje pewna ksiazka. ;Jest to slownik jezykowy. Przydal by sie jednemu z "twurcow".;x;x;x;x;x;x;x;x;x;0;0;0;0;0;0;0;0;

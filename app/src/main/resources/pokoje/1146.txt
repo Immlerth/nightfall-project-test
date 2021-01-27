@@ -1,1 +1,1 @@
-1146;walka;polnoc;brak;wschod;brak;tak;x;x;x;0;0;dzik;0;
+1146;Przedarles sie na granice lasu. Drzewa tutaj sa wyjatkowo stare, a roslinnosc rozrasta sie naokolo. ;polnoc;brak;wschod;brak;tak;x;x;x;0;0;dzik;0;
