@@ -1,1 +1,1 @@
-882;walka;polnoc;poludnie;brak;zachod;tak;x;x;x;0;0;OgnistySzkielet;0;
+882;Stanales przy wschodnim murze palisady. Jest tutaj zniszczona brama. Nie da sie jej podniesc. ;polnoc;poludnie;brak;zachod;tak;x;x;x;0;0;OgnistySzkielet;0;

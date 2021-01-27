@@ -1,1 +1,1 @@
-583;Wejscie 2;brak;poludnie;wschod;brak;x;x;x;tak;11;50;x;0;
+583;Krajobraz wokoł ciebie jest wypalony, wszystkie budynki są spalone niemal doszczętnie. Natomiast obok ciebie stoją kamiene skały z wyrytymi runami Heli. Patrząc w przestrzeń między skałami widzisz mroczną puszcze. ;brak;poludnie;wschod;brak;x;x;x;tak;11;50;x;0;

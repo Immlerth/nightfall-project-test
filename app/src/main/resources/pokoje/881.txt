@@ -1,1 +1,1 @@
-881;filer;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+881;Przechodzac przez sciezke przy palisadzie zauwazasz czarnego kota ktory przeskoczyl z dachu na dach. ;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

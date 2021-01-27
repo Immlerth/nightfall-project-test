@@ -1,1 +1,1 @@
-782;filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+782;Idziesz sciezka wsrod zgliszczy. Nie widzisz nic, co by przykulo twoja uwage. ;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

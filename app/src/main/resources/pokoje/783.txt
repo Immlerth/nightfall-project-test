@@ -1,1 +1,1 @@
-783;walka;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;Cerber;0;
+783;Widzisz bardzo nietypowy widok jak na ta wioske. Jedyny dom ktory nie zostal zniszczony przez plomienie. Wyglada dosyc rustykalnie, ale jest nie uszkodzony. ;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;Cerber;0;

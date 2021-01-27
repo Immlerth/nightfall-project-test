@@ -1,1 +1,1 @@
-681;walka;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;Ozombie;0;
+681;Za studnia, w centrum wiosku spostrzegasz spore zgliszcza po jakims budynku. ;polnoc;poludnie;wschod;zachod;tak;x;x;x;0;0;Ozombie;0;

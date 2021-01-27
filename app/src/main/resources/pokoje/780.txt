@@ -1,1 +1,1 @@
-780;filer;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;
+780;Docierasz do resztek palisady tej wioski. Jest ona w srednim stanie, ale nie masz mozliwosci, by przejsc po niej na druga strone. ;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-683;walka;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;OgnistyPies;0;
+683;Docierasz do polnocnej czesci palisady. Jest ona w lepszym stanie niz poludniowa, lecz nadal w takim stanie nic by nie obronila. ;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;OgnistyPies;0;

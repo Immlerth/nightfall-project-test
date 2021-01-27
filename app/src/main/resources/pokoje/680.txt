@@ -1,1 +1,1 @@
-680;Docierasz pomnika Odyna wykonanego z kamienia.;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;1;4;Tarcze odyna;tarcza odyna;29;W rece pomnik trzyma tarcze odyna ktora mozerz podniesc;Ta tarcza uratowala samego Odyna podczas wojny w Nilfheimie;x;x;x;x;x;tak;tak;x;x;0;0;4;0;0;6;0;0;
+680;Docierasz pod pomnika Odyna wykonanego z kamienia. ;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;1;4;Tarcze Odyna;tarcza odyna;29;Pomnik trzyma w rece TARCZE ODYNA ktora mozesz podniesc;Ta tarcza uratowala samego Odyna podczas wojny w Nilfheimie. ;x;x;x;x;x;tak;tak;x;x;0;0;4;0;0;6;0;0;
