@@ -1,1 +1,1 @@
-5950;filer;brak;brak;wschod;zachod;x;x;x;x;0;0;x;0;
+5950;Obchodzisz drakkar od drugiej strony, idac dalej plaza i zauwazasz dalej, cos lezacego na ziemi. ;brak;brak;wschod;zachod;x;x;x;x;0;0;x;0;

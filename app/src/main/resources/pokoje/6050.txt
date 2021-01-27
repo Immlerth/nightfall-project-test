@@ -1,1 +1,1 @@
-6050;filer;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;
+6050;Dochodzisz do wody, a zarazem krawedzi plazy. Widzisz ze woda na brzeg wyrzucila szczatki jakies ryby. ;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;

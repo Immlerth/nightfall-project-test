@@ -1,1 +1,1 @@
-6253;filer;brak;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+6253;Idziesz brzegiem plazy, w jednym momecie uderza w w ciebie fala, jestes caly mokry. ;brak;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

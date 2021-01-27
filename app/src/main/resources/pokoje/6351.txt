@@ -1,1 +1,1 @@
-6351;filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+6351;Znajdujesz czlowieka przebitego czterema wloczniami. ;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

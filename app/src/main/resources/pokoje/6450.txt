@@ -1,1 +1,1 @@
-6450;filer;polnoc;brak;brak;zachod;x;x;x;x;0;0;x;0;
+6450;Stoisz na bardzo kamienistym i mglistym zakatku plazy. Nie widzisz nic specjalnego. ;polnoc;brak;brak;zachod;x;x;x;x;0;0;x;0;

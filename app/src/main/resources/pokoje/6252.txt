@@ -1,1 +1,1 @@
-6252;item;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;1;17;Karwasze Ivora;karwasze;17;Widzisz jak praktycznie pod twoimi stopami morskie fale odkryly karwasze. ;Nie ochroniły Ivora przed ucięciem rąk;x;x;x;tak;x;x;x;x;x;0;0;2;0;0;3;0;0;
+6252;Trafiasz na szczatki jakiegos obozu lub schronienia, ktory znajdowal sie blisko wody. ;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;1;17;Karwasze Ivora;karwasze ivora;17;Widzisz jak praktycznie pod twoimi piasek przykrywa KARWASZE IVORA. ;Nie ochroniły Ivora przed ucięciem rąk;x;x;x;tak;x;x;x;x;x;0;0;2;0;0;3;0;0;

@@ -1,1 +1,1 @@
-6150;filer;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;
+6150;Idziesz plaza. Jest piaszczyscie, a widocznosc jest tragiczna. Idziesz praktycznie na oslep do przodu. ;polnoc;brak;wschod;zachod;x;x;x;x;0;0;x;0;

@@ -1,1 +1,1 @@
-6451;filer;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;
+6451;Stoisz przy krawedzi plazy i lasu. Las jest zbyt gesty, a widocznosc tragiczna by pchac sie do lasu. ;polnoc;poludnie;brak;zachod;x;x;x;x;0;0;x;0;

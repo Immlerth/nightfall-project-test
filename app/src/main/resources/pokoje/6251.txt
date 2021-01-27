@@ -1,1 +1,1 @@
-6251;filer;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;
+6251;Idziesz plaza. Jest piaszczyscie, a widocznosc jest tragiczna. Idziesz praktycznie na oslep do przodu. ;polnoc;poludnie;wschod;zachod;x;x;x;x;0;0;x;0;

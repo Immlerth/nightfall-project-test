@@ -1,1 +1,1 @@
-6153;walka;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;ryboludz1;0;
+6153;Przechodzisz plaza do krawedzi lasu. Jest on bardzo gesty i ciezko bedzie sie po nim poruszac, wiec odpuszczasz. ;brak;poludnie;wschod;zachod;tak;x;x;x;0;0;ryboludz1;0;
