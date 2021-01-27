@@ -1,1 +1,1 @@
-9998;walka;polnoc;brak;brak;brak;tak;x;x;x;0;0;kosciej;0;
+9998;Wchodzisz na wyzsze pietro wiezy. Spodziewales sie zobaczyc biblioteke lub moze juz samego nekromante, lecz twoim oczom ukazal sie pokoj wypelniony ogromna iloscia kosci. Spostrzegasz wyjscie po drugiej stronie. ;polnoc;brak;brak;brak;tak;x;x;x;0;0;kosciej;0;
